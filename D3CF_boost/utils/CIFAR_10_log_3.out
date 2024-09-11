@@ -1,0 +1,60 @@
+/home/hlx/anaconda3/envs/pytorch/bin/python3.8 /home/hlx/lishu/Contrastive_Learning/12C3-main/main.py
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+#this is from C3+Clusterboost. epoch is start from 0.
+epoch: 0
+ACC: 0.7898666666666667
+NMI: 0.704836097392707
+ARI: 0.6371426700917067
+Averaged stats: pseudo_num: 28336.0000 (14522.0791)  pseudo_cluster: 10.0000 (10.0000)
+epoch: 1
+ACC: 0.7898666666666667
+NMI: 0.704836097392707
+ARI: 0.6371426700917067
+Averaged stats: pseudo_num: 33483.0000 (31143.8184)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 5.4206 (5.7054)  loss_clu: 0.1014 (0.0989)
+epoch: 2
+ACC: 0.7889666666666667
+NMI: 0.704967271896296
+ARI: 0.6354567816344794
+Averaged stats: pseudo_num: 35771.0000 (34674.9444)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 4.7875 (5.1064)  loss_clu: 0.1086 (0.1001)
+epoch: 3
+ACC: 0.7895833333333333
+NMI: 0.7067469041468029
+ARI: 0.6373914024833945
+Averaged stats: pseudo_num: 36953.0000 (36350.6603)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 4.1080 (4.3830)  loss_clu: 0.1144 (0.0995)
+epoch: 4
+ACC: 0.7928333333333333
+NMI: 0.7115205246921635
+ARI: 0.6425172468216022
+Averaged stats: pseudo_num: 37876.0000 (37398.8462)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 3.6095 (3.7751)  loss_clu: 0.0577 (0.0990)
+epoch: 5
+ACC: 0.7936833333333333
+NMI: 0.7121870031934883
+ARI: 0.6440155918616391
+Averaged stats: pseudo_num: 38385.0000 (38117.0983)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 3.3159 (3.3974)  loss_clu: 0.0935 (0.1022)
+epoch: 6
+ACC: 0.8003333333333333
+NMI: 0.719377885426528
+ARI: 0.6520447976821094
+Averaged stats: pseudo_num: 38690.0000 (38529.0107)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 3.0816 (3.1707)  loss_clu: 0.0769 (0.0990)
+epoch: 7
+ACC: 0.8023
+NMI: 0.722374826067167
+ARI: 0.6550477552390822
+Averaged stats: pseudo_num: 38671.0000 (38735.9765)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 3.0070 (3.0242)  loss_clu: 0.0715 (0.0979)
+epoch: 8
+ACC: 0.8098333333333333
+NMI: 0.7295726782866334
+ARI: 0.6673460529642301
+Averaged stats: pseudo_num: 38865.0000 (38769.4893)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 2.8178 (2.9001)  loss_clu: 0.1042 (0.0952)
+epoch: 9
+ACC: 0.8112
+NMI: 0.7313692621368535
+ARI: 0.6684103426817661
+Averaged stats: pseudo_num: 38764.0000 (38816.4380)  pseudo_cluster: 10.0000 (10.0000)  loss_ins: 2.6520 (2.7383)  loss_clu: 0.0749 (0.0982)
+epoch: 10
+ACC: 0.8147833333333333
+NMI: 0.7339223581181525
+ARI: 0.673461428215074
